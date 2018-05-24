@@ -1,69 +1,92 @@
-.trophical{
-      text-align:center;
-      background-color:green;
-      border-radius:10%;}
+.trophical {
+    text-align: center;
+    background-color: green;
+    border-radius: 10%;
+}
 
-.coniferous{
-      text-align:center;
-      background-color:green;
-      border-radius:10%;}
-.evergreen{
-      text-align:center;
-      background-color:green;
-      border-radius:10%;}
-.monsoon{
-      text-align:center;
-      background-color:green;
-      border-radius:10%;}
-.nature{
-      clor:blue;
-      text-align: center;
-      background-color:green;
-      color:black;
-      border-radius:10%;}
-img{
-      width:100%;
-      height:250px;
-      border-radius:10%;}
-body{
-      background-color:powderblue;
-    }
-.logo{
-      margin-left:35%;
-      width:30%;
-      height:30%;
-      border-radius:10%;}
-.row{
-      margin: 10px;
-    }
-footer{
-      text-align:center;
-      background-color:white;}
-.colmn{
-      display:inline-block;
-      width: 87%;
-      box-shadow:0px 0px 20px blue;
-      margin-left:8%;
-      margin-top:10%;
-      position:relative;
-     
-    }
-h1,p,h2,footer{
-     word-break:break-all;}
-   
-@media screen and (max-width: 250px){
-      .col{
+.coniferous {
+    text-align: center;
+    background-color: green;
+    border-radius: 10%;
+}
+
+.evergreen {
+    text-align: center;
+    background-color: green;
+    border-radius: 10%;
+}
+
+.monsoon {
+    text-align: center;
+    background-color: green;
+    border-radius: 10%;
+}
+
+.nature {
+    clor: blue;
+    text-align: center;
+    background-color: green;
+    color: black;
+    border-radius: 10%;
+}
+
+img {
+    width: 100%;
+    height: 250px;
+    border-radius: 10%;
+}
+
+body {
+    background-color: powderblue;
+}
+
+.logo {
+    margin-left: 35%;
+    width: 30%;
+    height: 30%;
+    border-radius: 10%;
+}
+
+.row {
+    margin: 10px;
+}
+
+footer {
+    text-align: center;
+    background-color: white;
+}
+
+.colmn {
+    display: inline-block;
+    width: 87%;
+    box-shadow: 0px 0px 20px blue;
+    margin-left: 8%;
+    margin-top: 10%;
+    position: relative;
+}
+
+h1,
+p,
+h2,
+footer {
+    word-break: break-all;
+}
+
+@media screen and (max-width: 250px) {
+    .col {
         width: 50%;
-       }
+    }
 }
-@media screen and (max-width: 500px){
-      .col{
+
+@media screen and (max-width: 500px) {
+    .col {
         width: 100%;
-       }
+    }
 }
-@media screen and (max-width: 78px){
-      .col{
-        font-size:3px;
-       }
+
+@media screen and (max-width: 78px) {
+    .col {
+        font-size: 3px;
+    }
 }
       
