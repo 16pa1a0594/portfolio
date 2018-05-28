@@ -73,19 +73,19 @@ footer {
 }
 
 @media screen and (max-width: 250px) {
-    .col {
+    .colmn {
         width: 50%;
     }
 }
 
 @media screen and (max-width: 500px) {
-    .col {
+    .colmn {
         width: 100%;
     }
 }
 
 @media screen and (max-width: 78px) {
-    .col {
+    .colmn {
         font-size: 3px;
     }
 }
